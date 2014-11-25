@@ -7,5 +7,6 @@
     - mercurial
     - supervisor
     - unzip
+    - rsync
     - curl
     - wget
