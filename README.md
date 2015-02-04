@@ -3,4 +3,4 @@ Installs common Linux tools: `build-essential` (for building software), `git`, `
 Usage:
 
     roles:
-    - { role: ornl-sava.common }
+    - { role: jgoodall.common }
